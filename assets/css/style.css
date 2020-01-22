@@ -1,0 +1,100 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+nav{
+  background-color: #E83E8C;
+}
+img{
+  width: 8em;
+}
+
+ul{
+
+}
+
+.marglog{
+  padding-left: 61px;
+  padding-right: 14px;
+}
+
+.posmen{
+  width: 28%;
+  height: 51px;
+}
+
+.imgful{
+  padding: 0px;
+}
+
+.mart{
+  margin-right: 2em;
+}
+
+.card{
+
+}
+
+
+.centrarcard{
+    margin-bottom: 54px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.txtbanner{
+  font-weight: 700;
+  padding-top: 3.1em;
+  color: #707070;
+  margin-bottom: 65px;
+}
+
+h1{
+font-size: 50px;
+font-weight: 700;
+}
+
+h5{
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+.centrartxt{
+  text-align: right;
+  color: white;
+  font-weight: 700;
+}
+
+p{
+  margin: 0;
+}
+
+.col-7{
+  padding-left: 8%;
+}
+
+
+.fab{
+  font-size: 90px;
+  padding-left: 2%;
+  color: white;
+}
+
+.roww{
+  background-color: #17A2B8;
+}
+
+footer {
+  background-color: #E83E8C;
+  height: 300px;
+  text-align: center;
+}
+
+.imgfot{
+  width: 85px;
+}
